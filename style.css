@@ -1,0 +1,36 @@
+body{
+    
+
+    background: linear-gradient(190deg,rgba(33, 37, 41) 50%, rgba(216, 216, 216, 1) 42%, rgba(38, 38, 38, 1) 100%);
+}
+    h1 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 64px;
+  font-style:oblique;
+}
+
+
+
+
+h2{
+font-size: 32px
+
+
+}
+h5 {
+
+
+color: linear-gradient(190deg,rgb(163, 44, 44) 0%, rgb(227, 42, 42) 42%, rgb(153, 55, 55) 100%);
+
+
+  background: -webkit-linear-gradient(#1b262c, #e9eae9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+
+
+
+
